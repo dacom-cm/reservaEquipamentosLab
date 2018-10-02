@@ -17,26 +17,7 @@
                 </div>
               </div>
             </div>
-          </div> <FormGroup>
-      <Input
-        className="form-control"
-        id="email"
-        type="email"
-        name="email"
-        placeholder="Digite seu e-mail"
-        onChange={props.handleChangeText}
-      />
-    </FormGroup>
-    <FormGroup>
-      <Input
-        className="form-control"
-        id="pswd"
-        type="password"
-        name="senha"
-        placeholder="Digite sua Senha"
-        onChange={props.handleChangeText}
-      />
-    </FormGroup>
+          </div> 
         </div>
         <!-- Div de Botão Continuar reserva versão mobile -->
         <div class="d-flex d-md-none row justify-content-between" style="padding-top: 10px;">
